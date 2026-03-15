@@ -1,11 +1,13 @@
 # WebP
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 util for WebP in JavaScript / WebAssembly
 
 ## Demo
 
-- https://code4fukui.github.io/WebP/dec/example.html
-- https://code4fukui.github.io/WebP/enc/example.html
+- [Decoder Demo](https://code4fukui.github.io/WebP/dec/example.html)
+- [Encoder Demo](https://code4fukui.github.io/WebP/enc/example.html)
 
 ## Features
 

@@ -12,10 +12,6 @@ WebPのJavaScript / WebAssemblyでの利用ツールです。
 - WebPのデコードとエンコード
 - WebAssemblyによる高速動作
 
-## 必要環境
-
-特に必要ありません。
-
 ## 使い方
 
 ```js
